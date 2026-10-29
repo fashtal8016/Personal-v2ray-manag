@@ -1,0 +1,6 @@
+{
+  "name": "Personal V2Ray Manager",
+  "description": "High-performance V2Ray and Xray subscription manager, automated latency testing, dynamic 'main sub' top-50 node selection, and native Android VPN engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
